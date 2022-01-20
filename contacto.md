@@ -5,11 +5,9 @@ permalink: /contacto/
 ---
 
 
-### Contact me
+### Información de trabajo
 
 
-Correo : venanciogarmun@gmail.com
 Teléfono : +34657384829
 
-
-[venanciogarmun@gmail.com](mailto:venanciogarmun@gmail.com)
+Correo : [venanciogarmun@gmail.com](mailto:venanciogarmun@gmail.com)
