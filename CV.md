@@ -12,7 +12,7 @@ permalink: /CV/
 **2014 - 2016 [Colegio Nuestra Señora del Pilar](https://www.nspilar.com/), Madrid**<br />
         • Premio a la excelencia académica en las Pruebas de Acceso a la Universidad de la Comunidad de Madrid.<br />
 
-#### **[EXPERIENCIA LABORAL Y VOLUNTARIADO](www.linkedin.com/in/venancio-garcía-muñoz-68240219a)**
+#### **EXPERIENCIA LABORAL Y VOLUNTARIADO**
 **2021 Asistente de profesor en ICAI<br />**
         • Con estudiantes internacionales del programa SAPIENS, en la asignatura Introduction to Statics.<br />
 **2019-2020 [Sener Aeroespacial](https://www.aeroespacial.sener/)<br />**
