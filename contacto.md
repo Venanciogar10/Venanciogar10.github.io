@@ -5,7 +5,7 @@ permalink: /contacto/
 ---
 
 
-### Información de trabajo
+### Información de contacto
 
 
 Teléfono : +34657384829
